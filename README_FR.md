@@ -6,9 +6,14 @@
 
 ## Présentation
 
-L'<abbr title="Institut National de la Statistique et des Études Économiques">INSEE</abbr> propose des fichiers annuels relatifs aux communes, cantons, arrondissements, collectivités territoriales exerçant des compétences départementales, départements, régions, ainsi qu'aux pays et territoires étrangers, via le Code Officiel Géographique (<abbr title="Code Officiel Géographique">COG</abbr>).
+L'<abbr title="Institut National de la Statistique et des Études Économiques">INSEE</abbr>
+propose des fichiers annuels relatifs aux communes, cantons, arrondissements,
+collectivités territoriales exerçant des compétences départementales, départements, régions,
+ainsi qu'aux pays et territoires étrangers,
+via le Code Officiel Géographique (<abbr title="Code Officiel Géographique">COG</abbr>).
 
-Ce dépôt fournit le fichier des communes, enrichi par des informations sur les cantons, arrondissements, départements, collectivités territoriales et régions aux formats DuckDB, CSV, ND-JSON et Parquet.
+Ce dépôt fournit le fichier des communes, enrichi par des informations sur les cantons, arrondissements,
+départements, collectivités territoriales et régions aux formats DuckDB, CSV, ND-JSON et Parquet.
 
 ## Millésime 2025
 
