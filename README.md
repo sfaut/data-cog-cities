@@ -60,7 +60,7 @@ Output:
 | `code`                    | `VARCHAR`   | INSEE city code, e.g. *17300*, primary key of `cog.city_unique`                                       |
 | 🔗 `parent_code`         | `VARCHAR`   | INSEE code of the parent city, for `COMA`, `COMD`, and `ARM`                                          |
 | 🔗 `type_code`           | `VARCHAR`   | `COM`, `COMA`, `COMD`, or `ARM`                                                                       |
-| `type_name`               | `VARCHAR`   | Type in plain text, e.g. *City*                                                                       |
+| `type_name`               | `VARCHAR`   | Type in plain text, e.g. *Commune*                                                                       |
 | `name`                    | `VARCHAR`   | City name, e.g. *La Rochelle*                                                                         |
 | `single_name`             | `VARCHAR`   | City name without article, e.g. *Rochelle*                                                            |
 | `simple_name`             | `VARCHAR`   | City name without article or accents, e.g. *ROCHELLE*                                                 |
